@@ -27,7 +27,6 @@ Berikut contoh tampilan aplikasi:
 - Mendukung Android, iOS, Web, dan Desktop  
 
 ---
----
 
 ## ⚙️ Cara Instalasi & Menjalankan
 
