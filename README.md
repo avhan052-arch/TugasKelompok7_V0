@@ -9,7 +9,6 @@ Aplikasi menampilkan halaman utama dengan **AppBar**, daftar anggota kelompok me
 
 Berikut contoh tampilan aplikasi:  
 
-![Halaman Utama]
 <p align="center">
   <img src="https://raw.githubusercontent.com/avhan052-arch/TugasKelompok7_V0/main/assets/images/screenshot.jpg" 
        alt="Halaman Utama" width="300"/>
