@@ -26,13 +26,13 @@ class KelompokPage extends StatefulWidget {
 class _KelompokPageState extends State<KelompokPage>
 with TickerProviderStateMixin {
   final List<Map<String, String>> anggota = const [
-    {"nama": "Andi", "detail": "Andi adalah ketua kelompok 7, suka ngoding Flutter."},
-    {"nama": "Budi", "detail": "Budi bertanggung jawab pada dokumentasi dan laporan."},
-    {"nama": "Citra", "detail": "Citra ahli dalam desain UI/UX aplikasi."},
-    {"nama": "Deni", "detail": "Deni mengurus bagian backend dan database."},
-    {"nama": "Eka", "detail": "Eka fokus pada testing dan kualitas aplikasi."},
-    {"nama": "Fajar", "detail": "Fajar sering membantu bagian frontend Flutter."},
-    {"nama": "Gina", "detail": "Gina sebagai koordinator presentasi kelompok."},
+    {"nama": "Ardiansyah", "detail": "Nama : Ardiansyah, NIM : ........."},
+    {"nama": "Harun", "detail": "Nama : Harun, NIM : ........."},
+    {"nama": "Widya", "detail": "Nama : Widya, NIM : ........."},
+    {"nama": "Hasan", "detail": "Nama : Hasan, NIM : ........."},
+    {"nama": "...", "detail": "Nama : ..., NIM : ........."},
+    {"nama": "...", "detail": "Nama : ..., NIM : ........."},
+    {"nama": "...", "detail": "Nama : ..., NIM : ........."},
   ];
 
   late List<AnimationController> controllers;
@@ -250,7 +250,24 @@ with TickerProviderStateMixin {
           ),
         ],
       ),
-
+    bottomNavigationBar: BottomNavigationBar(
+        currentIndex: 1, 
+        onTap: (index) {}, 
+        items: const [
+          BottomNavigationBarItem(
+            icon: Icon(Icons.home),
+            label: "Home",
+          ),
+          BottomNavigationBarItem(
+            icon: Icon(Icons.group),
+            label: "Kelompok",
+          ),
+          BottomNavigationBarItem(
+            icon: Icon(Icons.settings),
+            label: "Pengaturan",
+          ),
+        ],
+      ),
     );
   }
 }
