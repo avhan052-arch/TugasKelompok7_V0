@@ -27,20 +27,6 @@ Berikut contoh tampilan aplikasi:
 - Mendukung Android, iOS, Web, dan Desktop  
 
 ---
-
-## 📂 Struktur Proyek
-
-TugasKelompok7_V0/
-│
-├── android/ # Proyek Android
-├── ios/ # Proyek iOS
-├── lib/ # File Dart (main.dart, dll.)
-├── web/ # Build web
-├── assets/ # Folder untuk gambar/screenshots
-│ └── images/
-├── pubspec.yaml # Konfigurasi dependency
-└── README.md # Dokumentasi
-
 ---
 
 ## ⚙️ Cara Instalasi & Menjalankan
