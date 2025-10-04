@@ -9,7 +9,7 @@ Aplikasi menampilkan halaman utama dengan **AppBar**, daftar anggota kelompok me
 
 Berikut contoh tampilan aplikasi:  
 
-![Halaman Utama](assets/images/screenshot_main.png)  
+![Halaman Utama](https://raw.githubusercontent.com/avhan052-arch/TugasKelompok7_V0/main/assets/images/screenshot.jpg)
 
 > 📌 Simpan gambar Anda di folder `assets/images/` agar bisa muncul di README.  
 > Gunakan perintah `git add assets/images/` lalu commit.
