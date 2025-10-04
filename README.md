@@ -9,7 +9,7 @@ Aplikasi menampilkan halaman utama dengan **AppBar**, daftar anggota kelompok me
 
 Berikut contoh tampilan aplikasi:  
 
-<p align="center">
+<!-- <p align="center">
   <figure>
     <figcaption><b>Versi 0</b></figcaption>
     <img src="https://raw.githubusercontent.com/avhan052-arch/TugasKelompok7_V0/main/assets/images/screenshot.jpg" 
@@ -20,7 +20,11 @@ Berikut contoh tampilan aplikasi:
     <img src="https://raw.githubusercontent.com/avhan052-arch/TugasKelompok7_V0/main/assets/images/screenshot1.jpg" 
          alt="Versi 1" width="300"/>
   </figure>
-</p>
+</p> -->
+
+| Versi 0 | Versi 1 |
+|---------|---------|
+| <img src="https://raw.githubusercontent.com/avhan052-arch/TugasKelompok7_V0/main/assets/images/screenshot.jpg" width="250"/> | <img src="https://raw.githubusercontent.com/avhan052-arch/TugasKelompok7_V0/main/assets/images/screenshot1.jpg" width="250"/> |
 
 
 > 📌 Simpan gambar Anda di folder `assets/images/` agar bisa muncul di README.  
