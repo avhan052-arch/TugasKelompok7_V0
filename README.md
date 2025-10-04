@@ -27,9 +27,9 @@ Berikut contoh tampilan aplikasi:
 | <img src="https://raw.githubusercontent.com/avhan052-arch/TugasKelompok7_V0/main/assets/images/screenshot.jpg" width="250"/> | <img src="https://raw.githubusercontent.com/avhan052-arch/TugasKelompok7_V0/main/assets/images/screenshot1.jpg" width="250"/> |
 
 
-> 📌 Perbedaan dari versi 1 dan dua adalah dari style, di versi 1 sudah terdapat animasi.  
-> 📌 Untuk Versi0 dapat memlih branch versi0
-> 📌 Untuk Versi1 dapat memilih branch Versi1/atau main
+- 📌 Perbedaan dari versi 1 dan dua adalah dari style, di versi 1 sudah terdapat animasi.  
+- 📌 Untuk Versi0 dapat memlih branch versi0
+- 📌 Untuk Versi1 dapat memilih branch Versi1/atau main
 ---
 
 ## ✨ Fitur Utama
