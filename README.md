@@ -35,3 +35,9 @@ Berikut contoh tampilan aplikasi:
 ```bash
 git clone https://github.com/avhan052-arch/TugasKelompok7_V0.git
 cd TugasKelompok7_V0
+
+### 2. Pastikan Flutter sudah terpasang
+
+Cek dengan:
+```bash
+flutter doctor
