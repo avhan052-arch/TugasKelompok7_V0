@@ -27,8 +27,7 @@ Berikut contoh tampilan aplikasi:
 | <img src="https://raw.githubusercontent.com/avhan052-arch/TugasKelompok7_V0/main/assets/images/screenshot.jpg" width="250"/> | <img src="https://raw.githubusercontent.com/avhan052-arch/TugasKelompok7_V0/main/assets/images/screenshot1.jpg" width="250"/> |
 
 
-> 📌 Simpan gambar Anda di folder `assets/images/` agar bisa muncul di README.  
-> Gunakan perintah `git add assets/images/` lalu commit.
+> 📌 Perbedaan dari versi 1 dan dua adalah dari style, di versi 1 sudah terdapat animasi.  
 
 ---
 
