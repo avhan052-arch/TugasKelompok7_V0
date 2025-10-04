@@ -35,9 +35,28 @@ Berikut contoh tampilan aplikasi:
 ```bash
 git clone https://github.com/avhan052-arch/TugasKelompok7_V0.git
 cd TugasKelompok7_V0
-
+```
 ### 2. Pastikan Flutter sudah terpasang
 
 Cek dengan:
 ```bash
 flutter doctor
+```
+### 3. Install dependency
+```bash
+flutter pub get
+```
+### 4. Jalankan aplikasi
+* Untuk Android (emulator/device):
+```bash
+flutter run
+```
+* Untuk Web:
+```bash 
+flutter run -d chrome
+```
+### 5. Build release 
+* Android APK:
+```bash
+flutter build apk
+```
