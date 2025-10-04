@@ -28,7 +28,8 @@ Berikut contoh tampilan aplikasi:
 
 
 > 📌 Perbedaan dari versi 1 dan dua adalah dari style, di versi 1 sudah terdapat animasi.  
-
+> 📌 Untuk Versi0 dapat memlih branch versi0
+> 📌 Untuk Versi1 dapat memilih branch Versi1/atau main
 ---
 
 ## ✨ Fitur Utama
