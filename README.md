@@ -11,11 +11,6 @@ Berikut contoh tampilan aplikasi:
 
 <p align="center">
   <figure>
-    <img src="https://raw.githubusercontent.com/avhan052-arch/TugasKelompok7_V0/main/assets/images/screenshot.jpg" 
-         alt="Versi 0" width="300"/>
-    <figcaption><b>Versi 0</b></figcaption>
-  </figure>
-  <figure>
     <img src="https://raw.githubusercontent.com/avhan052-arch/TugasKelompok7_V0/main/assets/images/screenshot1.jpg" 
          alt="Versi 1" width="300"/>
     <figcaption><b>Versi 1</b></figcaption>
