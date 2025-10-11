@@ -1,6 +1,6 @@
-name: flutter_application_1
-description: "A new Flutter project."
-publish_to: 'none'
+name: kelompok7_app
+description: "Kelompok 7 Sistem Informasi."
+publish_to: 'Avhan'
 version: 0.1.0
 
 environment:

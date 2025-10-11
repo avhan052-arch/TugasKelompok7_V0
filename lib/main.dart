@@ -24,9 +24,9 @@ class KelompokPage extends StatelessWidget {
     "2. Harun",
     "3. Widya",
     "4. Hasan",
-    "5. .....",
-    "6. .....",
-    "7. .....",
+    "5. Syahril",
+    "6. Aisyah",
+    "7. Aji",
   ];
 
   @override
